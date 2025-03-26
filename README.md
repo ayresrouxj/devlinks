@@ -1,19 +1,11 @@
 <h1 align="center">DevLinks</h1>
 
 <p align="center">
-Projeto desenvolvido durante o programa [Discover](https://www.rocketseat.com.br/discover) da [Rocketseat](https://rocketseat.com.br).
-</p>
+Projeto desenvolvido durante o programa Discover da Rocketseat.
+</a>
 
 <p align="center">
-[🚀 Tecnologias](#-tecnologias) | [💻 Projeto](#-projeto) | [🔖 Layout](#-layout) | [📝 Licença](#memo-licença)
-</p>
-
-<p align="center">
-![License](https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000)
-</p>
-
-<p align="center">
-![projeto DevLinks](.github/preview.jpg)
+  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
