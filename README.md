@@ -21,11 +21,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://ayresrouxj.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://ayresrouxj.github.io/devlinks){:target="\_blank"}
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321){:target="\_blank"}. É necessário ter conta no [Figma](https://figma.com){:target="\_blank"} para acessá-lo.
 
 ## :memo: Licença
 
